@@ -22,6 +22,13 @@ pip install pandas numpy scikit-learn
 
 Contributions are welcome! Please feel free to submit issues, suggestions, or pull requests to improve the project.
 
+## Credits
+[Pandas](https://pandas.pydata.org/) - For data manipulation and analysis.
+
+[NumPy](https://numpy.org/) - For scientific computing and array manipulation.
+
+[Scikit-learn](https://scikit-learn.org/stable/) - For machine learning algorithms and model selection tools.
+
 ## Contact
 
 If you have any questions or feedback, please contact me on GitHub by creating an issue or submitting a pull request.
