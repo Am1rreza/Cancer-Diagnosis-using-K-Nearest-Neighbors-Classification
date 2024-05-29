@@ -1,13 +1,13 @@
 # Cancer Diagnosis using K-Nearest Neighbors Classification
 
-This project is a Jupyter notebook demonstrating the use of the K-Nearest Neighbors (KNN) classification algorithm to predict cancer diagnosis. The notebook utilizes popular Python libraries such as Pandas, Seaborn, Matplotlib, NumPy, and Scikit-learn. The main goal of this project is to help beginners understand how to implement KNN classification algorithms in Python and apply them to real-world datasets, specifically focusing on healthcare applications such as cancer diagnosis.
+This project is a Jupyter notebook demonstrating the use of the K-Nearest Neighbors (KNN) classification algorithm to predict cancer diagnosis. The notebook utilizes popular Python libraries such as Pandas, NumPy, and Scikit-learn. The main goal of this project is to help beginners understand how to implement KNN classification algorithms in Python and apply them to real-world datasets, specifically focusing on healthcare applications such as cancer diagnosis.
 
 ## Installation
 
 To run the Jupyter notebook, you'll need to install the following libraries:
 
 ```bash
-pip install pandas seaborn matplotlib numpy scikit-learn
+pip install pandas numpy scikit-learn
 ```
 
 ## Usage
